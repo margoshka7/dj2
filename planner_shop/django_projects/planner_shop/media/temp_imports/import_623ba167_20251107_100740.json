@@ -1,0 +1,9 @@
+{
+    "title": "Тестовый планинг2",
+    "product_type": "planner",
+    "description": "Тестовый товар для проверки",
+    "price": "600.00",
+    "sku": "TEST001",
+    "is_available": true,
+    "stock_quantity": 10
+}

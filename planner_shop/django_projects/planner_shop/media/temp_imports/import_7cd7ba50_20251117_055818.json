@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Лунные сутки на месяц",
+    "product_type": "planner",
+    "description": "Ежедневник с фазами луны и астрологическими рекомендациями для каждого дня месяца",
+    "price": "950.00",
+    "sku": "MOON001",
+    "is_available": true,
+    "stock_quantity": 30
+  },
+  {
+    "title": "Планинг датированный",
+    "product_type": "planner", 
+    "description": "Датированный ежедневник с готовой разметкой дат на весь год",
+    "price": "850.00",
+    "sku": "DATE001",
+    "is_available": true,
+    "stock_quantity": 25
+  },
+  {
+    "title": "Планинг с лунными сутками А3",
+    "product_type": "planner",
+    "description": "Большой планинг формата А3 с детальной разметкой лунных фаз и астрологических периодов",
+    "price": "1200.00",
+    "sku": "A3MOON001",
+    "is_available": true,
+    "stock_quantity": 15
+  },
+  {
+    "title": "Планинг формата А2",
+    "product_type": "planner",
+    "description": "Очень большой планинг формата А2 для масштабного планирования и творческих проектов",
+    "price": "1500.00", 
+    "sku": "A2PLAN001",
+    "is_available": true,
+    "stock_quantity": 10
+  },
+  {
+    "title": "Стикеры 'Лунная магия'",
+    "product_type": "sticker",
+    "description": "Набор стикеров с лунной символикой для оформления планингов",
+    "price": "350.00",
+    "sku": "MOONSTK001",
+    "is_available": true,
+    "stock_quantity": 50
+  }
+]

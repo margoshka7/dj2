@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ежедневник Creative Planning",
+    "product_type": "planner",
+    "description": "Ежедневник для творческого планирования с мотивационными цитатами",
+    "price": "899.00",
+    "sku": "PLN001",
+    "is_available": true,
+    "stock_quantity": 25
+  },
+  {
+    "title": "Набор стикеров 'Флора'",
+    "product_type": "sticker",
+    "description": "Набор виниловых стикеров с цветочными мотивами для украшения планингов",
+    "price": "299.00",
+    "sku": "STK001",
+    "is_available": true,
+    "stock_quantity": 100
+  },
+  {
+    "title": "Планинг 'Минимализм'",
+    "product_type": "planner",
+    "description": "Стильный планинг в минималистичном дизайне для деловых людей",
+    "price": "750.00",
+    "sku": "PLN002",
+    "is_available": true,
+    "stock_quantity": 15
+  },
+  {
+    "title": "Стикеры 'Геометрические'",
+    "product_type": "sticker",
+    "description": "Набор геометрических стикеров для креативного оформления",
+    "price": "199.00",
+    "sku": "STK002",
+    "is_available": false,
+    "stock_quantity": 0
+  },
+  {
+    "title": "Набор 'Стартовый'",
+    "product_type": "kit",
+    "description": "Полный набор для начинающего: планинг + стикеры + ручка",
+    "price": "1200.00",
+    "sku": "KIT001",
+    "is_available": true,
+    "stock_quantity": 10
+  }
+]

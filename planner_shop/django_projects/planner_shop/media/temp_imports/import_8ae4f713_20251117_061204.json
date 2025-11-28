@@ -1,0 +1,22 @@
+{
+    "title": "стикер",
+    "product_type": "sticker",
+    "description": "рр",
+    "price": "10",
+    "discount": "10",
+    "sku": "444",
+    "is_available": true,
+    "stock_quantity": 1,
+    "image": null
+}
+{
+    "title": "стикер",
+    "product_type": "sticker",
+    "description": "рр",
+    "price": "100",
+    "discount": "10",
+    "sku": "4446",
+    "is_available": true,
+    "stock_quantity": 1,
+    "image": null
+}
